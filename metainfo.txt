@@ -1,0 +1,9 @@
+Name of Quantlet: 'Prediction of BTC energy consumption'
+
+Published in: 'SDA_2021_St_Gallen'
+
+Description: 'This Quantlet uses various statistical techniques to analyze data related to BTC price, transactions, sentiment, and energy demand to forecast the future energy demand of the BTC network.'
+
+Keywords: 'BTC, Bitcoin, energy, ARIMA, VAR, LSTM, sentiment analysis'
+
+Author: 'Aleksandra Bakhareva, Mario Blauensteiner, Paul Kilian Kreutzer, Tim Ludwig Leonard Matheis'
