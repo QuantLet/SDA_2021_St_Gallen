@@ -16,11 +16,26 @@ After cloning the project, `cd` to the directory where `requirements.txt` is loc
 
 ## Navigation
 
-`01_datapreprocessing`:
-- scrape fincial data of bitcoin and ethereum (URL: https://coinmarketcap.com/) - requirements: google chrome(one of newest versions) + google chromedriver
-- laod energy consumption data of bitcoin and ethereum (URL:......)
-- prepocess and merge data
+`01`: Data preprocessing and web scraping
+- Scrape fincial data of bitcoin (URL: https://coinmarketcap.com/) - requirements: google chrome(one of newest versions) + google chromedriver
+- Preprocess downloaded data and merge it to a consistent set of panel data
 
-`02_statistics`:
-- - analyze datasets (i.e.: correlation matrix, counts, quantile values, mean, medians, graphes,...)
+`02`: Data analyzation
+- Analyze datasets (i.e.: correlation matrix, counts, quantile values, mean, medians, graphes,...)
+
+`03`: Forecasting of BTC energy consumption
+- ARIMA
+- VAR
+- LSTM 
+
+Folder `sentiment analysis`:
+- Additional files to compute a sentiment index based on tweets
+- For the forecasts, we instead used the fear and greed index
+
+Folder `data`:
+- The data sets containing the energy consumption as well as covariates
+
+Folder `images`:
+- Plots of the time series as well as the predictions
+
 
