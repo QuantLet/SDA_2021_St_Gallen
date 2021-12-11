@@ -2,7 +2,7 @@
 
 This code is for our research project in the course "Smart Data Analytics" (SDA) 2021. Using different models (ARIMA, GARCH, VAR, LSTM), we forecast the electrcity consumption used for Bitcoin mining. The reasoning behind this research question is that the computative power required for mining is steadily increasing. But with an exploding price (end 2021), it becomes lucrative for miners. As the bitcoin energy consumption is comparable to the energy consumption of Switzerland, this is an urgent topic. You can find the recording of our presentation [here](REPLACE).
 
-![image info](./images/energy.png)
+![image info](./images/energy_transparent.png)
 
 ## Team members:
 * Aleksandra Bakhareva (21-604-475) 
