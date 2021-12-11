@@ -1,2 +1,16 @@
 pandas
 numpy
+pmdarima
+statsmodels
+sklearn
+math
+arch
+matplotlib
+selenium
+tweepy
+textblob
+gensim
+re
+vaderSentiment
+
+
