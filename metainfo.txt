@@ -1,6 +1,6 @@
 Name of Quantlet: 'Prediction of BTC energy consumption'
 
-Published in: 'SDA Smart Data Analytics 2021 at the University of St.Gallen'
+Published in: 'SDA_2021_St_Gallen'
 
 Description: 'This Quantlet uses various statistical techniques to analyze data related to BTC price, transactions, sentiment, and energy demand to forecast the future energy demand of the BTC network.'
 
