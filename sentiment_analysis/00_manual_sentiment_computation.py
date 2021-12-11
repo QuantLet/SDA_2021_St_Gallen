@@ -1,3 +1,5 @@
+# Functions and tools for manually computing a sentiment index
+
 import gensim
 import pandas as pd
 
