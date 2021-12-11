@@ -1,0 +1,9 @@
+Name of Quantlet: <NAME_OF_QUANTLET>
+
+Published in: SDA Smart Data Analytics at the University of St.Gallen
+
+Description: This Quantlet uses various statistical techniques to analyze data related to BTC price, transactions, sentiment, and energy demand to forecast the future energy demand of the BTC network.
+
+Keywords: BTC, Bitcoin, energy, ARIMA, VAR, LSTM, sentiment analysis
+
+Author: Aleksandra Bakhareva, Mario Blauensteiner, Paul Kilian Kreutzer, Tim Ludwig Leonard Matheis (21-603-907)
