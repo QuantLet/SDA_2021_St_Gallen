@@ -6,7 +6,7 @@ Description: 'Clustering and Principal Component Analysis of Cryptocurrency Dail
 
 Keywords: 'Bitcoin, BTC, Cryptocurrencies, Clustering, PCA'
 
-Author: 'A.Schmidt'
+Author: 'A Schmidt'
 
 Submitted: '31 October 2022'
 
