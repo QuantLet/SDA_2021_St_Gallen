@@ -1,4 +1,4 @@
-Name of Quantlet: 'SDA_2022_Clustering_and_PCA_of_cryptocurrencies'
+Name of Quantlet: 'SDA_2022_IQO_Clustering_and_PCA_of_cryptocurrencies'
 
 Published in: 'SDA_2021_St_Gallen'
 
