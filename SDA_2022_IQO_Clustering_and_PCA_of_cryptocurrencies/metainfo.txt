@@ -10,6 +10,6 @@ Author: 'A Schmidt'
 
 Submitted: '31 October 2022'
 
-Input: 'Daily Historical Trading Data from 08/08/20 until 10/23/20 for Bitcoin, Ripple, LiteCoin, Ethereum, BitcoinCash'
+Input: 'Daily Trading Data from 08/08/20 until 10/23/20 for Bitcoin, Ripple, LiteCoin, Ethereum, BitcoinCash'
 
 Output: 'Dendrogram and Principal Components depicting groups of cryptocurrencies'
